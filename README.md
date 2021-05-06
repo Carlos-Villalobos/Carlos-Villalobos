@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi, I'm Carlos Villalobos
 
-<!--
-**Carlos-Villalobos/Carlos-Villalobos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+>My name is Carlos Villalobos and i'm an actual student of cibernetics and computer systems engineering
+----
+**Connect with me:**
 
-Here are some ideas to get you started:
+[<img align="left" width="26px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
+[<img align="left" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+**Languages and Tools:**
+
+<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+
+
+---
+
+
+![Carlos Villalobos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Villalobos&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Villalobos&layout=compact&theme=dark)](https://github.com/Carlos-Villalobos/github-readme-stats)
+
+[instagram]: https://www.instagram.com/charlievillawolf/
+[linkedin]: https://www.linkedin.com/in/carlos-villalobos-garcia-2811b0159/
+
