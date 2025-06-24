@@ -1,7 +1,7 @@
 # Hi, I'm Carlos Villalobos
 
 ## About me
->My name is Carlos Villalobos and i'm an actual student of cibernetics and computer systems engineering
+>My name is Carlos Villalobos a Cybernetics and Computer Systems Engineer. With interests in IT support, Quality Assurance Engineering, Cybersecurity and Software development.
 ----
 **Connect with me:**
 
