@@ -83,13 +83,3 @@ Currently pursuing a Master's Degree in Intelligent Systems at **Universidad de 
   <br>
   <img src="https://streak-stats.demolab.com/?user=Carlos-Villalobos&theme=dark&hide_border=false" width="50%" />
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/carlos-villalobos-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Carlos-Villalobos&icon=0&color=0" alt="Profile Views" />
-</div>
