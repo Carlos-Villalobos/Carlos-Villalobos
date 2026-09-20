@@ -19,7 +19,7 @@ Currently pursuing a Master's Degree in Intelligent Systems at **Universidad de 
   <p>Currently in Salamanca, Spain. Open to part-time SDET roles (30h/week) and Graduate Programs across Europe.</p>
   
   <a href="mailto:charlievilla587@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" />
   </a>
   <a href="https://www.linkedin.com/in/carlos-villalobos-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -78,10 +78,10 @@ Currently pursuing a Master's Degree in Intelligent Systems at **Universidad de 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Carlos-Villalobos&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Carlos-Villalobos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Carlos-Villalobos&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="35%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Carlos-Villalobos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="27.5%" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Carlos-Villalobos&theme=dark&hide_border=false" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Carlos-Villalobos&theme=dark&hide_border=false" width="50%" />
 </div>
 
 <br>
