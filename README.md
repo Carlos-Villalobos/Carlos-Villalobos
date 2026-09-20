@@ -13,12 +13,27 @@ Currently pursuing a Master's Degree in Intelligent Systems at **Universidad de 
 
 ---
 
+## 📬 Let's Connect
+
+<div align="center">
+  <p>Currently in Salamanca, Spain. Open to part-time SDET roles (30h/week) and Graduate Programs across Europe.</p>
+  
+  <a href="mailto:charlievilla587@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-villalobos-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
 ## 💼 Experience & Education
 
 *   🎓 **M.S. in Intelligent Systems** | *Universidad de Salamanca* (Expected 2027)
-*   💻 **Software Quality Engineer** | *HP INC.* (2022 - 2026)
-    *   *Architected scalable POM testing suites with Python/Selenium and automated infrastructure via Ansible & PowerShell.*
-*   ⚙️ **Automation Intern** | *Aumovio / Continental* (2021 - 2022)
+*   💻 **Software Quality Engineer (Hybrid QA)** | *HP INC.* (2022 - 2026)
+    *   *Executed comprehensive manual E2E validation and architected scalable automated POM testing suites utilizing Python/Selenium.*
+*   ⚙️ **Automation Intern** | *Continental* (2021 - 2022)
     *   *Developed RPA solutions using UiPath and optimized operational workflows.*
 *   🎓 **B.S. Cybernetics and Computer Systems Engineering** | *Universidad Marista de Guadalajara* (2018 - 2022)
 
