@@ -1,34 +1,80 @@
-# Hi, I'm Carlos Villalobos
-
-## About me
->My name is Carlos Villalobos a Cybernetics and Computer Systems Engineer. With interests in IT support, Quality Assurance Engineering, Cybersecurity and Software development.
-----
-**Connect with me:**
-
-[<img align="left" width="26px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
-[<img align="left" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
-
-<br />
-<br />
-
-**Languages and Tools:**
-
-<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></code>
-<code><img alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></code>
-<code><img alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" /></code>
-
+<div align="center">  
+  <h1>Hi, I'm Carlos Villalobos 👋</h1>
+  <h3>QA Automation Engineer | SDET | Master's Student in Intelligent Systems</h3>
+</div>
 
 ---
 
+## 💫 About Me
 
-![Carlos Villalobos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Villalobos&theme=dark&show_icons=true)
+Systems Engineer with 4+ years of professional experience specializing in end-to-end testing, test automation architecture, and infrastructure setup. Proven track record in building scalable automated frameworks with Python and Selenium, optimizing CI/CD pipelines, and driving quality standards in high-scale environments.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Villalobos&layout=compact&theme=dark)](https://github.com/Carlos-Villalobos/github-readme-stats)
+Currently pursuing a Master's Degree in Intelligent Systems at **Universidad de Salamanca**, focusing on integrating AI, Machine Learning, and Data Engineering into modern QA lifecycles and software testing ecosystems.
 
-[instagram]: https://www.instagram.com/charlievillawolf/
-[linkedin]: https://www.linkedin.com/in/carlos-villalobos-garcia-2811b0159/
+---
 
+## 💼 Experience & Education
+
+*   🎓 **M.S. in Intelligent Systems** | *Universidad de Salamanca* (Expected 2027)
+*   💻 **Software Quality Engineer** | *HP INC.* (2022 - 2026)
+    *   *Architected scalable POM testing suites with Python/Selenium and automated infrastructure via Ansible & PowerShell.*
+*   ⚙️ **Automation Intern** | *Aumovio / Continental* (2021 - 2022)
+    *   *Developed RPA solutions using UiPath and optimized operational workflows.*
+*   🎓 **B.S. Cybernetics and Computer Systems Engineering** | *Universidad Marista de Guadalajara* (2018 - 2022)
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+**Languages & Databases:**
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+**QA Automation & RPA:**
+<br>
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=UiPath&logoColor=white)
+
+**Data Engineering & AI:**
+<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**Infrastructure & Tools:**
+<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+*   **[The Internet - UI Automation Framework](https://github.com/Carlos-Villalobos/the-internet-automation)**: E2E testing suite implementing the Page Object Model (POM) pattern, explicit waits, and PyTest to validate complex asynchronous web interactions.
+*   **[PokeAPI Data Quality Pipeline](https://github.com/Carlos-Villalobos/tu-repo-pokeapi)**: Local data extraction and tabular validation script utilizing Pandas and NumPy to assert data integrity from external REST endpoints.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Carlos-Villalobos&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Carlos-Villalobos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=Carlos-Villalobos&theme=dark&hide_border=false" width="98%" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/carlos-villalobos-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Carlos-Villalobos&icon=0&color=0" alt="Profile Views" />
+</div>
